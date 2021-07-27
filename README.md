@@ -13,24 +13,25 @@
 <br />
 
   
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="taydinadnan's GitHub Stats" src="https://github-readme-stats.taydinadnan.vercel.app/api?username=taydinadnan&show_icons=true&hide_border=true" />
+  <img align="left" alt="taydinadnan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taydinadnan&show_icons=true&hide_border=true" />
 
-</details>
 
 [twitter]: https://twitter.com/turgayajdin
 [instagram]: https://instagram.com/turgayajdin
 [linkedin]: https://linkedin.com/in/taydinadnan
 
-<details>
+
+<br>
 
 <img align="left" alt="taydinadnan's Github Stats" 
 src="https://github-readme-stats.vercel.app/api?username=taydinadnan&show_icons=true&hide_border=true" />
 
 <br/>
-<details>
+
+<br>
 
 ### Languages and Tools:
 
