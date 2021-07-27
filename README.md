@@ -42,5 +42,9 @@
 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+ ---
+ 
+ <br/>
+
+<img align="left" alt="taydinadnan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=taydinadnan&show_icons=true&hide_border=true" />
 
