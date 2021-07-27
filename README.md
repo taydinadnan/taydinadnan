@@ -12,9 +12,11 @@
 
 <br />
 
+---
 
 <summary>:zap: GitHub Stats</summary><img align="left" alt="taydinadnan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taydinadnan&show_icons=true&hide_border=true" />
 
+---
 
 ### Languages and Tools:
 
