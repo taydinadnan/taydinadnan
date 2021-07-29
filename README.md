@@ -1,7 +1,5 @@
 ### Hi there, I'm Adnan Turgay 👋
 ---
-## I'm a Student and Developer !!
----
 - 🌱 I’m currently learning Flutter and Dart.
 ---
 ### Connect with me:
