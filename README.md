@@ -1,7 +1,5 @@
 ### Hi there, I'm Adnan Turgay 👋
 ---
-- 🌱 I’m currently learning Flutter and Dart.
----
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
