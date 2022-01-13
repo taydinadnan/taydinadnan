@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="21-avatar-outline.gif">
+<img align="right" width="300" height="300" src="https://github.com/taydinadnan/readme/blob/main/21-avatar-outline.gif">
 
 
 # Adnan Turgay Aydin
